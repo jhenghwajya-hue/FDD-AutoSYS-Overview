@@ -1,6 +1,6 @@
 # FDD AutoSYS
 
-FDD AutoSYS 是一个面向科技类企业财务尽调（Financial Due Diligence）的多角色协作Agent工具，适用于Codex等主流Agent工具。包含项目启动、原始证据登记、专题分析、工作底稿、subagent反方复核和人工决策等环节。
+FDD AutoSYS 是一个面向科技类企业财务尽调（Financial Due Diligence）的多角色协作Agent工具，适用于Codex等主流Agent终端。包含项目启动、原始证据登记、专题分析、工作底稿、subagent反方复核和人工决策等环节。
 
 > 本仓库是公开介绍版，包含方法和架构说明。
 
